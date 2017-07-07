@@ -800,6 +800,7 @@ See [RELEASE NOTES](https://github.com/hekailiang/squirrel/blob/master/RELEASE_N
 
 ## Sponsors
 ![IDEA](http://www.jetbrains.com/img/logos/logo_intellij_idea.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsquirrel.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsquirrel?ref=badge_shield)
 
 ## More Information  
 * For the **latest updates** follow my twitter [@hhe11][5] or [+HeHenry][8]
@@ -823,3 +824,7 @@ See [RELEASE NOTES](https://github.com/hekailiang/squirrel/blob/master/RELEASE_N
 [11]: https://github.com/hekailiang/squirrel/pull/11
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsquirrel.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsquirrel?ref=badge_large)
